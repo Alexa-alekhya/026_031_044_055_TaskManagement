@@ -1,8 +1,0 @@
-Leader is now: 127.0.0.1:8001
-Data from MySQL table:
-(1, 1, 'Sample Task 1', 3, '2020-12-03 11:08:58')
-(2, 1, 'Sample Task 2', 'Sample Task', 1, '2020-12-03 13:50:15')
-(3, 2, 'Task Test', 'Sample', 1, '2020-12-03 13:52:25')
-(4, 2, 'test 23', 'Sample test 23', 1, '2020-12-03 13:52:40')
-Done writing VARIABLE
- Check the .log and .state_machine files!
